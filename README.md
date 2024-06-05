@@ -15,7 +15,7 @@ In this project, we created a reinforcement learning agent that learns to play S
 ### Reinforcement Learning (RL)
 Reinforcement Learning is a type of machine learning where an agent learns to make decisions by performing actions and receiving rewards. The agent's goal is to maximize cumulative rewards over time.
 
-![App Screenshot](https://github.com/akashghosh256/Ecommerce-App/blob/main/screenshots/filter.png)
+![App Screenshot](https://raw.githubusercontent.com/akashghosh256/Super-Mario-Bros-Reinforcement-Learning-/main/screenshots/cycle2.webp)
 
 ### Deep Q-Networks (DQN)
 Deep Q-Networks (DQN) use neural networks to approximate the Q-value function, which helps the agent decide the best actions to take in different states.
@@ -30,11 +30,11 @@ A replay buffer is a memory storage that holds past experiences. By sampling fro
 Wrappers are used to preprocess game observations and rewards, making it easier for the agent to learn effectively from the environment.
 
 
-![App Screenshot](https://raw.githubusercontent.com/akashghosh256/Super-Mario-Bros-Reinforcement-Learning-/main/screenshots/cycle2.webp)
+![App Screenshot](https://github.com/akashghosh256/Super-Mario-Bros-Reinforcement-Learning-/blob/main/screenshots/processing.png)
 
-![App Screenshot](https://github.com/akashghosh256/Ecommerce-App/blob/main/screenshots/filter.png)
+![App Screenshot](https://github.com/akashghosh256/Super-Mario-Bros-Reinforcement-Learning-/blob/main/screenshots/grayscale.png)
 
-![App Screenshot](https://github.com/akashghosh256/Ecommerce-App/blob/main/screenshots/filter.png)
+![App Screenshot](https://github.com/akashghosh256/Super-Mario-Bros-Reinforcement-Learning-/blob/main/screenshots/network_mapping.png)
 
 ## Learning Outcomes
 
