@@ -54,5 +54,5 @@ This project provided a comprehensive learning experience in applying advanced r
 
 - [Gym Super Mario Bros](https://pypi.org/project/gym-super-mario-bros/)
 - [PyTorch](https://pytorch.org/)
-- [OpenAI Gym](https://gym.openai.com/)
-- [Double DQN Paper](https://arxiv.org/abs/1509.06461)
+- [OpenAI Gym](https://github.com/openai/gym)
+
