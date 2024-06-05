@@ -2,14 +2,20 @@
 
 This project demonstrates the use of reinforcement learning to train an agent to play the classic game Super Mario Bros using Double Deep Q-Networks (DDQN).
 
+![App Screenshot](https://github.com/akashghosh256/Ecommerce-App/blob/main/screenshots/filter.png)
+
 ## Project Overview
 
 In this project, we created a reinforcement learning agent that learns to play Super Mario Bros. The agent uses Double Deep Q-Networks (DDQN) to improve performance and stability during the learning process.
 
 ## Key Concepts
 
+![App Screenshot](https://github.com/akashghosh256/Super-Mario-Bros-Reinforcement-Learning-/blob/main/screenshots/gameplay.gif)
+
 ### Reinforcement Learning (RL)
 Reinforcement Learning is a type of machine learning where an agent learns to make decisions by performing actions and receiving rewards. The agent's goal is to maximize cumulative rewards over time.
+
+![App Screenshot](https://github.com/akashghosh256/Ecommerce-App/blob/main/screenshots/filter.png)
 
 ### Deep Q-Networks (DQN)
 Deep Q-Networks (DQN) use neural networks to approximate the Q-value function, which helps the agent decide the best actions to take in different states.
@@ -22,6 +28,13 @@ A replay buffer is a memory storage that holds past experiences. By sampling fro
 
 ### Wrappers
 Wrappers are used to preprocess game observations and rewards, making it easier for the agent to learn effectively from the environment.
+
+
+![App Screenshot](https://raw.githubusercontent.com/akashghosh256/Super-Mario-Bros-Reinforcement-Learning-/main/screenshots/cycle2.webp)
+
+![App Screenshot](https://github.com/akashghosh256/Ecommerce-App/blob/main/screenshots/filter.png)
+
+![App Screenshot](https://github.com/akashghosh256/Ecommerce-App/blob/main/screenshots/filter.png)
 
 ## Learning Outcomes
 
