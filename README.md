@@ -2,7 +2,7 @@
 
 This project demonstrates the use of reinforcement learning to train an agent to play the classic game Super Mario Bros using Double Deep Q-Networks (DDQN).
 
-![App Screenshot](https://github.com/akashghosh256/Ecommerce-App/blob/main/screenshots/filter.png)
+![App Screenshot](https://github.com/akashghosh256/Super-Mario-Bros-Reinforcement-Learning-/blob/main/screenshots/gameplay.gif)
 
 ## Project Overview
 
@@ -10,7 +10,7 @@ In this project, we created a reinforcement learning agent that learns to play S
 
 ## Key Concepts
 
-![App Screenshot](https://github.com/akashghosh256/Super-Mario-Bros-Reinforcement-Learning-/blob/main/screenshots/gameplay.gif)
+![App Screenshot](https://raw.githubusercontent.com/akashghosh256/Super-Mario-Bros-Reinforcement-Learning-/main/screenshots/types.webp)
 
 ### Reinforcement Learning (RL)
 Reinforcement Learning is a type of machine learning where an agent learns to make decisions by performing actions and receiving rewards. The agent's goal is to maximize cumulative rewards over time.
